@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "26":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/pon.wav"},
-    "28":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/kan.wav"},
-    "30":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/chi.wav"},
-    "32":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/riichi.wav"},
-    "34":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/ron.wav"},
-    "36":{"url":"https://raw.githubusercontent.com/aofuyu/Denia_Tenhou/main/Voice/tsumo.wav"}
+    "26":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/pon.wav"},
+    "28":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/kan.wav"},
+    "30":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/chi.wav"},
+    "32":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/riichi.wav"},
+    "34":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/ron.wav"},
+    "36":{"url":"https://github.com/aofuyu/Denia_Tenhou/raw/refs/heads/main/Voice/tsumo.wav"}
   }
 }
