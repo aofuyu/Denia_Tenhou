@@ -1,0 +1,11 @@
+{
+  "ver":1.0,
+  "se":{
+    "26":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/pon.wav"},
+    "28":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/kan.wav"},
+    "30":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/chi.wav"},
+    "32":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/riichi.wav"},
+    "34":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/ron.wav"},
+    "36":{"url":"https://github.com/aofuyu/Denia_Tenhou/tree/main/Voice/tsumo.wav"}
+  }
+}
